@@ -58,6 +58,10 @@ Atuar como **Product Owner** ou **Analista de Negócios**, contribuindo com vis�
 ## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroIgo&show_icons=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroIgo&layout=compact" height="150" alt="Most Used Languages" />
+  <a href="https://github.com/LeandroIgo">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeandroIgo&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/LeandroIgo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroIgo&layout=compact&theme=radical" height="150" alt="Most Used Languages" />
+  </a>
 </p>
