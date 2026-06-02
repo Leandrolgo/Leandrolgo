@@ -56,11 +56,11 @@ Atuar como **Product Owner** ou **Analista de Negócios**, contribuindo com vis�
 
 ---
 
-## 📊 Estatísticas de Engenharia & Produto
+### 📊 Estatísticas de Engenharia & Produto
 
 | 📈 Indicador | 🛠️ Tecnologias e Foco | 🚀 Projetos Ativos |
 | :--- | :--- | :--- |
-| ![Commits](https://img.shields.io/badge/Contribuições-Ativas-success?style=flat-square&logo=github) | ![Product](https://img.shields.io/badge/Main_Focus-Product_Management-blue?style=flat-square) | ![RouteSync](https://img.shields.io/badge/Case-RouteSync-orange?style=flat-square) |
-| ![Repo](https://img.shields.io/badge/Repositórios-Documentados-informational?style=flat-square) | ![Tech](https://img.shields.io/badge/Stack-Markdown_%2F_Figma_%2F_Jira-lightgrey?style=flat-square) | ![EduPath](https://img.shields.io/badge/Case-EduPath-brightgreen?style=flat-square) |
-
+| ![Contribuições](https://img.shields.io/badge/Contribuições-Ativas-brightgreen) | ![Foco](https://img.shields.io/badge/Main_Focus-Product_Management-blue) | ![RouteSync](https://img.shields.io/badge/Case-RouteSync-orange) |
+| ![Repositórios](https://img.shields.io/badge/Repositórios-Documentados-blue) | ![Stack](https://img.shields.io/badge/Stack-Markdown_/_Figma_/_Jira-grey) | ![EduPath](https://img.shields.io/badge/Case-EduPath-brightgreen) |
+| | | ![CliniqFlow](https://img.shields.io/badge/Case-CliniqFlow-informational) |
 ---
