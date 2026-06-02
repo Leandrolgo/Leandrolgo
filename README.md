@@ -34,7 +34,7 @@ Atuar como **Product Owner** ou **Analista de Negócios**, contribuindo com vis�
 |---|---|---|
 | [RouteSync](https://github.com/Leandrolgo/portfolio-PO) | LogTech | Plataforma de otimização de rotas — discovery, roadmap e backlog completos |
 | [EduPath](https://github.com/Leandrolgo/edupath-product-management) | EdTech | Plataforma de trilhas de aprendizagem — personas, histórias de usuário e métricas |
-[CliniqFlow](https://github.com/seu-usuario/cliniqflow-product-management) | CliniqFlow | HealthTech | Plataforma de gestão de fluxo de clínicas — discovery, roadmap e backlog completos |
+| [CliniqFlow](https://github.com/Leandrolgo/cliniqflow-product-management) | HealthTech | Plataforma de gestão de fluxo de clínicas — discovery, roadmap e backlog completos |
 
 ---
 
