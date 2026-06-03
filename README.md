@@ -10,8 +10,6 @@ Sou Product Owner com background em Engenharia de Produção, Administração e 
 
 Aqui no GitHub compartilho projetos completos de Product Management — discovery, personas, roadmap, backlog e gestão de sprints — documentados no Jira e Confluence como um PO faria no dia a dia real.
 
-Aqui no GitHub compartilho projetos simulados de Product Management, documentando discovery, roadmap, backlog e métricas como um PO faria no dia a dia real.
-
 ---
 
 ## 🎓 Formação
