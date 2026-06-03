@@ -40,12 +40,12 @@ Atuar como **Product Owner** ou **Analista de Negócios**, contribuindo com vis�
 
 ## 🛠️ Ferramentas & Habilidades
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+[![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)](https://miro.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Leandrolgo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrolgo)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
 ---
 
