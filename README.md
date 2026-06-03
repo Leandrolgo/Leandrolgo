@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou o Leandro Gasparello!
 
-- 🎯 Product Owner | Analista de Negócios em transição de carreira
+- 🚀 Product Owner | Analista de Negócios | LogTech · HealthTech · EdTech
 - 🎓 Mestre em Engenharia de Produção | Graduado em Administração | Cursando Engenharia de Software
 - 📍 Ponta Grossa – PR
 
 ---
+## 🧠 Sobre mim
+Sou Product Owner com background em Engenharia de Produção, Administração e Engenharia de Software — uma combinação que me permite transitar entre a visão estratégica do negócio e a linguagem técnica do time de desenvolvimento.
 
-## 🧭 Sobre mim
-
-Profissional em transição para a área de Produto e Tecnologia, com sólida base acadêmica e 10 anos de experiência como professor universitário. Minha trajetória desenvolveu habilidades em pensamento analítico, estruturação de processos, comunicação com diferentes públicos e resolução de problemas complexos — competências que aplico diretamente na gestão de produtos digitais.
+Aqui no GitHub compartilho projetos completos de Product Management — discovery, personas, roadmap, backlog e gestão de sprints — documentados no Jira e Confluence como um PO faria no dia a dia real.
 
 Aqui no GitHub compartilho projetos simulados de Product Management, documentando discovery, roadmap, backlog e métricas como um PO faria no dia a dia real.
 
