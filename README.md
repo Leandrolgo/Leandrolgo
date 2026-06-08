@@ -43,7 +43,8 @@ Atuar como **Product Owner** ou **Analista de Neg√≥cios**, contribuindo com vis√
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)](https://miro.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Leandrolgo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrolgo)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
+
 
 ---
 
