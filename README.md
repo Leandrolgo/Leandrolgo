@@ -39,11 +39,11 @@ Atuar como **Product Owner** ou **Analista de Negócios**, contribuindo com vis�
 ### 🛠️ Ferramentas & Habilidades
 
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%230052CC.svg?style=for-the-badge&logo=confluence&logoColor=yellow)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=red)
-![Miro](https://img.shields.io/badge/Miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=blue)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=green)
-![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=purple)
+![Confluence](https://img.shields.io/badge/Confluence-%23FFAB00.svg?style=for-the-badge&logo=confluence&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-%23050038.svg?style=for-the-badge&logo=miro&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
